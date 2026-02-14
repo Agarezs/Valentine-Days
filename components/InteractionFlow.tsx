@@ -323,7 +323,7 @@ const LoveMeterStep = ({ onComplete }: { onComplete: () => void }) => {
                     <div className="text-6xl font-black text-white font-mono tracking-tighter">
                         {progress}<span className="text-red-400 text-3xl">%</span>
                     </div>
-                    <span className="text-2xl text-white/60 font-playfair italic mt-2 tracking-widest">Perkiraan Cintamu kak nata</span>
+                    <span className="text-2xl text-white/60 font-playfair italic mt-2 tracking-widest">Perkiraan Cinta Nata:)</span>
                 </div>
             </div>
 
